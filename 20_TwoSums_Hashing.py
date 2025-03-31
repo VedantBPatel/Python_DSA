@@ -13,5 +13,5 @@ if __name__=="__main__":
     nums=[2,7,11,15,8,25]
     target=19
     result=TwoSums(nums,target)
-    print("indices: ",result)
+    print("Indices: ",result)
 
